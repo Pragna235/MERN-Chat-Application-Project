@@ -32,3 +32,4 @@
 * Modify the code as follows
 
 * Go to the `Thunder Client` on VSCode for testing purposes
+* Create files in the `routes` folder
