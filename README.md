@@ -14,7 +14,12 @@
 * Make changes in `package.json`
 *     npm run dev
 * Create a `.env` file
+* Create a `config` folder with `database.js` file in it
 
 * ---------------------- Database Connection ---------------------
 * Navigate to `mongodb.com` in browser
 * Create a `New Project` and `New Deployment`
+* Save the `coneection string` in `.env` file
+
+* --------------------------------------BACKEND----------------------
+* Write code in `database.js` file
