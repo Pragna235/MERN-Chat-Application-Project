@@ -23,3 +23,4 @@
 
 * --------------------------------------BACKEND----------------------
 * Write code in `database.js` file
+* Create a `userModel.js` file in the `models` folder
