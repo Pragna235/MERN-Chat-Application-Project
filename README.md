@@ -10,3 +10,4 @@
 *     npm i mongoose express dotenv bcryptjs cookie-parser nodemon cors socket.io
 * Create the backend project structure :
 * Create folders `routes`, `controllers`, `models`
+* Write code in the `index.js` file
