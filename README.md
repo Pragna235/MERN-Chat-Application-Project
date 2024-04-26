@@ -17,4 +17,4 @@
 
 * ---------------------- Database Connection ---------------------
 * Navigate to `mongodb.com` in browser
-* 
+* Create a `New Project` and `New Deployment`
