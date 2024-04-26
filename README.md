@@ -12,3 +12,5 @@
 * Create folders `routes`, `controllers`, `models`
 * Write code in the `index.js` file
 * Make changes in `package.json`
+*     npm run dev
+* 
