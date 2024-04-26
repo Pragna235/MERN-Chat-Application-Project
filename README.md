@@ -28,4 +28,7 @@
 * Create another file in it called `conversationModel.js`
 
 * In the foler `controllers`, create a file called `userController.js`
-* 
+* Go to `Avatar Placeholder` in your browser and get the required `urls`
+* Modify the code as follows
+
+* Go to the `Thunder Client` on VSCode for testing purposes
