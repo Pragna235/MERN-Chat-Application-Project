@@ -24,3 +24,4 @@
 * --------------------------------------BACKEND----------------------
 * Write code in `database.js` file
 * Create a `userModel.js` file in the `models` folder
+* Create another file in it called `messageModel.js`
