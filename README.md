@@ -13,4 +13,8 @@
 * Write code in the `index.js` file
 * Make changes in `package.json`
 *     npm run dev
+* Create a `.env` file
+
+* ---------------------- Database Connection ---------------------
+* Navigate to `mongodb.com` in browser
 * 
