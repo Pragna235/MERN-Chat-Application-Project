@@ -29,4 +29,12 @@
 * Visit `localhost:5000` in the web server and observe the output.
 <br>
 
+* Create a `data` folder with `data.js` file in the `backend` folder
+* Add dummy data to the `data.js`
+* Make necessary changes and additions in the `server.js` code
+* Start the server again and observe the output at `localhost:5000/api/chat`
+<br>
+
+*
+
 
