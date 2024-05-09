@@ -1,4 +1,4 @@
-# MERN Real-Time Chat Application
+# MERN Real-Time Chat Application PART 1
 
 * Open `VSCode` folder
 *     npm init
