@@ -51,6 +51,5 @@
 * Test the `api endpoints` just created using POSTMAN.
 <br>
 
-*
 
 
