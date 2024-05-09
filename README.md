@@ -36,7 +36,7 @@
 <br>
 
 * Write the necessary endpoints and observe the api outcomes.
-* Create a `.env` file in the `Project Folder`
+* Create a `.env` file in the `Project Folder` and install `dotenv` package
 *     npm i dotenv
 <br>
 
