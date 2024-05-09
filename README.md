@@ -12,4 +12,7 @@
   ```
 * To run the `server.js`, run the following command on terminal
 *     node backend/server.js
-* 
+* Add the following in the `scripts` section of the `package.json` created
+*     "start":"node backend/server.js"
+* Now, to run the server
+*     npm start
