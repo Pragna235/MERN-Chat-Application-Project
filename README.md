@@ -35,6 +35,7 @@
 * Start the server again and observe the output at `localhost:5000/api/chat`
 <br>
 
-*
+* Write the necessary endpoints and observe the api outcomes.
+* 
 
 
