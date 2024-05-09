@@ -17,4 +17,13 @@
 * Install the `Chakra UI` in the `first terminal`
 *     npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 * `Chakra UI` is something similar to `Bootstrap`
+* Now go to `index.js` and wrap your application in the `ChakraProvider`
+* ```
+  <ChakraProvider>
+      <App />
+    </ChakraProvider>
+  ```
+*     import { ChakraProvider } from '@chakra-ui/react'
+* Restart your `React app` and observe the changes
+  
 
