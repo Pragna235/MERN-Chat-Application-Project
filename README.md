@@ -40,6 +40,15 @@
 *     npm i dotenv
 <br>
 
+* To avoid restarting the server everytime we make changes : install `nodemon` package
+*     npm i nodemon
+* Make the following change in the `package.json`
+*     "start": "nodemon backend/server.js"
+* Now use `npm start` to start the server.
+<br>
+
+*
+
 *
 
 
