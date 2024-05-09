@@ -4,6 +4,8 @@
 *     npm init
 *     npm i express
 * Create a `backend` folder and a `server.js` file in it
+<br>
+
 * Start writing code in `server.js`
 * ```
     const express = require('express')
@@ -16,3 +18,15 @@
 *     "start":"node backend/server.js"
 * Now, to run the server
 *     npm start
+<br>
+
+* ```
+  app.get('/',(req,res)=>{
+    res.send("API is running");
+  })
+  ```
+* Write the above in the `server.js` and start the server again.
+* Visit `localhost:5000` in the web server and observe the output.
+<br>
+
+
