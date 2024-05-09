@@ -47,7 +47,9 @@
 * Now use `npm start` to start the server.
 <br>
 
-*
+* Make sure you have a `POSTMAN` account and `POSTMAN Desktop Agent` downloaded in your system
+* Test the `api endpoints` just created using POSTMAN.
+<br>
 
 *
 
