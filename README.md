@@ -14,5 +14,7 @@
 * Remove unnecessary files and code from the `src` folder
 <br>
 
-*
+* Install the `Chakra UI` in the `first terminal`
+*     npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+* `Chakra UI` is something similar to `Bootstrap`
 
